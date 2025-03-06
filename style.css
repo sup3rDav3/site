@@ -24,13 +24,13 @@ nav ul li {
 
 .hero {
     padding: 50px;
-    background: linear-gradient(to right, #ff4b2b, #ff416c);
+    background: linear-gradient(to right, #007bff, #00d4ff);
     animation: fadeIn 2s ease-in-out;
 }
 
 button {
     background: white;
-    color: #ff416c;
+    color: #007bff;
     padding: 10px 20px;
     border: none;
     cursor: pointer;
@@ -38,7 +38,7 @@ button {
 }
 
 button:hover {
-    background: #ff416c;
+    background: #007bff;
     color: white;
 }
 
