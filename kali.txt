@@ -32,4 +32,4 @@ sudo ./bloodhound-cli install (a whole bunch of stuff downloading/extracting)
 [+] You can get your admin password by running: bloodhound-cli config get default_password
 [+] You can access the BloodHound UI at: http://127.0.0.1:8080/ui/login
 
-+++ Prompted to chanage password, then BH should open.
++++ Prompted to change password, then BH should open.
